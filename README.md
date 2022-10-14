@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mathew Mario Borg (@mat4539)
+- 📚 I'm currently studying computer programming at Humber Collage
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React-Native, Express JS, Java, Python, And React
-- 💞️ I’m looking to collaborate on React Webdevelopment
+- 💞️ I’m looking to collaborate on React Web Development Projects
 - 📫 Email: mborg0020@gmail.com Cell: 416-559-5972
 
 <!---
